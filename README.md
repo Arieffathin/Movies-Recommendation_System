@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/edb184b1-2172-4eed-8ef2-8de8d99cf29d)# Proyek Sistem Rekomendasi Film
+![png-transparent-google-colab-logo-tech-companies](https://github.com/user-attachments/assets/55429531-f5d1-463d-bacf-374f9f1238ba)
+# Proyek Sistem Rekomendasi Film
 
 Repositori ini berisi implementasi sistem rekomendasi film menggunakan dataset "TMDB 5000 Movie Dataset". Dua pendekatan algoritma yang digunakan adalah **Content-Based Filtering** dan **Popularity-Based Recommendation**.
 
