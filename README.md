@@ -63,15 +63,9 @@ Sistem ini bertujuan untuk memberikan rekomendasi film kepada pengguna.
 4.  Ikuti sel-sel kode untuk melihat proses dan hasil rekomendasi.
 
 ## Struktur Repositori
-* `[Nama_Notebook_Anda].ipynb`: Notebook utama berisi semua kode dan analisis.
+* `Sistem_rekomendasi_film_AriefFathin.ipynb`: Notebook utama berisi semua kode dan analisis.
 * `tmdb_5000_movies.csv`: Dataset film.
 * `tmdb_5000_credits.csv`: Dataset kredit film.
-* `README.md`: File ini.
-
-## Potensi Pengembangan
-* Implementasi teknik embedding yang lebih canggih (Word2Vec, Sentence Transformers).
-* Pengembangan model hybrid.
-* Evaluasi kuantitatif jika data *ground truth* tersedia.
 
 ---
 **Kontributor:** [Arief Fathin Abrar]
